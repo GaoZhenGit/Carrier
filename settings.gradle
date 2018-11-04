@@ -1,1 +1,1 @@
-include ':carrier',':app',':cglib'
+include ':carrier', ':app', ':cglib', ':method-hook'
